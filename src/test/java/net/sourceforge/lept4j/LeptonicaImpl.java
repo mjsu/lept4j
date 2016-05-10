@@ -6540,9 +6540,9 @@ public class LeptonicaImpl implements Leptonica {
         throw new UnsupportedOperationException("Not supported yet.");
     }
 
-    @Override
+    /*@Override
     public HBITMAP pixGetWindowsHBITMAP(Pix pixs) {
         throw new UnsupportedOperationException("Not supported yet.");
-    }
+    }*/
     
 }
