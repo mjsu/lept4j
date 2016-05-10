@@ -17995,5 +17995,5 @@ public class Leptonica1 implements Library, ILeptonica {
      * Original signature : <code>HBITMAP pixGetWindowsHBITMAP(PIX*)</code><br>
      * <i>native declaration : leptwin.h:2</i>
      */
-    public static native HBITMAP pixGetWindowsHBITMAP(Pix pixs);
+    //public static native HBITMAP pixGetWindowsHBITMAP(Pix pixs);
 }
